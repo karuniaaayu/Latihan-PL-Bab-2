@@ -1,0 +1,4 @@
+Class	: Mahasiswa, Lapangan
+Obejct 	: mhs1, mhs2, mhs3, kelilingLapangan
+Attribut: nim, nama, jumlahPutaran, jumlahWaktu
+Method	: hitungWaktuCepat, hitungJarak, hitungPemenang
